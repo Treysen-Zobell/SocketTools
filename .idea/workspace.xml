@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83960638-d5fb-4cf4-85fa-c5c5383d17ac" name="Default Changelist" comment="" />
+    <list default="true" id="83960638-d5fb-4cf4-85fa-c5c5383d17ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket_tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket_tools/socket_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocketTools/SocketTools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocketTools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,35 +36,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DigitalSignage_v4" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\Github Repositories\SocketTools" />
+      <recent name="D:\Programming\Github Repositories\SocketTools\socket_tools" />
       <recent name="D:\Programming\Github Repositories\SocketTools\SocketTools" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.server">
-    <configuration name="SocketTools" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SocketTools" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SocketTools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SocketTools/SocketTools.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.client_test">
     <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SocketTools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,27 +90,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SocketTools" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="server_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SocketTools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,13 +111,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="socket_tools (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SocketTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socket_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socket_tools/socket_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SocketTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Programming\Github Repositories\SocketTools\socket_tools\socket_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.client" />
-        <item itemvalue="Python.server" />
         <item itemvalue="Python.client_test" />
         <item itemvalue="Python.server_test" />
-        <item itemvalue="Python.SocketTools" />
+        <item itemvalue="Python.socket_tools (1)" />
+        <item itemvalue="Python.socket_tools" />
+        <item itemvalue="Python.client" />
       </list>
     </recent_temporary>
   </component>
@@ -162,21 +177,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="400" key="GridCell.Tab.0.bottom" timestamp="1580628627411">
+    <state x="3620" y="456" key="FileChooserDialogImpl" timestamp="1583128455484">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3620" y="456" key="FileChooserDialogImpl/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@2560.0.2560.1400" timestamp="1580672276527" />
+    <state x="3620" y="456" key="FileChooserDialogImpl/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583128455484" />
+    <state width="2539" height="491" key="GridCell.Tab.0.bottom" timestamp="1583130319930">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@2560.0.2560.1400" timestamp="1580628627411" />
-    <state width="2539" height="400" key="GridCell.Tab.0.center" timestamp="1580628627411">
+    <state width="1899" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@5120.0.1920.1040" timestamp="1580634371443" />
+    <state width="2539" height="491" key="GridCell.Tab.0.bottom/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
+    <state width="2539" height="491" key="GridCell.Tab.0.center" timestamp="1583130319930">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@2560.0.2560.1400" timestamp="1580628627411" />
-    <state width="2539" height="400" key="GridCell.Tab.0.left" timestamp="1580628627411">
+    <state width="1899" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@5120.0.1920.1040" timestamp="1580634371443" />
+    <state width="2539" height="491" key="GridCell.Tab.0.center/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
+    <state width="2539" height="491" key="GridCell.Tab.0.left" timestamp="1583130319929">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@2560.0.2560.1400" timestamp="1580628627411" />
-    <state width="2539" height="400" key="GridCell.Tab.0.right" timestamp="1580628627411">
+    <state width="1899" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@5120.0.1920.1040" timestamp="1580634371443" />
+    <state width="2539" height="491" key="GridCell.Tab.0.left/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319929" />
+    <state width="2539" height="491" key="GridCell.Tab.0.right" timestamp="1583130319930">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@2560.0.2560.1400" timestamp="1580628627411" />
+    <state width="1899" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/5120.0.1920.1040/2560.0.2560.1400@5120.0.1920.1040" timestamp="1580634371443" />
+    <state width="2539" height="491" key="GridCell.Tab.0.right/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
+    <state width="2539" height="491" key="GridCell.Tab.1.bottom" timestamp="1583130319930">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="491" key="GridCell.Tab.1.bottom/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
+    <state width="2539" height="491" key="GridCell.Tab.1.center" timestamp="1583130319930">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="491" key="GridCell.Tab.1.center/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
+    <state width="2539" height="491" key="GridCell.Tab.1.left" timestamp="1583130319930">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="491" key="GridCell.Tab.1.left/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
+    <state width="2539" height="491" key="GridCell.Tab.1.right" timestamp="1583130319930">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="491" key="GridCell.Tab.1.right/2560.0.2560.1400/5120.0.1920.1040/0.0.2560.1400@2560.0.2560.1400" timestamp="1583130319930" />
   </component>
 </project>
